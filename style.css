@@ -11,9 +11,9 @@ footer ul {
 }
 
 figure img {
-    width: 20vw;
+    width: 40vw;
 }
 
-right {
-    float: right;
+.right {
+    margin-left: auto;
 }
