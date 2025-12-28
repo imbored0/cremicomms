@@ -1,7 +1,3 @@
-* {
-    padding: 5%;
-}
-
 footer {
     display: block;
 }
@@ -15,5 +11,9 @@ footer ul {
 }
 
 figure img {
-    width: 200px;
+    width: 20vw;
+}
+
+right {
+    float: right;
 }
