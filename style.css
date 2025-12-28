@@ -1,0 +1,19 @@
+* {
+    padding: 5%;
+}
+
+footer {
+    display: block;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+.toy {
+    width: 20px;
+}
+
+figure img {
+    width: 200px;
+}
